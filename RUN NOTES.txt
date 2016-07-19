@@ -1,0 +1,19 @@
+THRESHOLD JF MONKEY DATA
+
+using the correct thresholding script
+
+DATA
+> filtered-reinf_15614-scrapate_ga-unordered.tsv 
+(taken from 2016-04-14-reinfection_all_rerun_new/data/all_JF_monkeys_filtered.csv, 
+took out homogenates and renamed)
+> filtered-17513_17213-scrapate.xlsx from somewhere in Dropbox
+> filtered-17513-scrapates.csv (processed from filtered-17513-_17213-scrapate.xlsx)
+> filtered-allmonkeys-scrapate_ga.csv (merged two source CSV files, using as CSV_FILE in thresholding)
+
+HELPERS
+> samples-scrapates-all.tsv from 2016-04-14-reinfection_all_rerun_new/helpers/samples_allmonkeys.csv (renamed), containing sample names and info for all monkeys
+
+SCRIPTS
+
+> convert_xls_to_csv.ipynb (copied from 2016-05-01-rethreshold/scripts; same name)
+> threshold-csv-full-monkey.ipynb (copied and adapted from 2016-05-01-rethreshold/scripts/threshold-csv-full-equals.ipynb)
