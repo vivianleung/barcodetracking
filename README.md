@@ -2,7 +2,7 @@
 # BARTI (Barcode Tracking In vivo)
 ## Pipeline for barcode sequence data analysis
 
-<Hello - welcome to our Github home! Please feel free to peruse our project and share our interest in tuberculosis and infectious disease, as well as the joy of biology and CS. If you do use some of the code or other material from this project, please be sure to cite us (see the reference in the overview). Thanks! :)  Scripts written by Vivian W. Leung (1). 2016.>
+<!---Hello - welcome to our Github home! Please feel free to peruse our project and share our interest in tuberculosis and infectious disease, as well as the joy of biology and CS. If you do use some of the code or other material from this project, please be sure to cite us (see the reference in the overview). Thanks! :)  Scripts written by Vivian W. Leung (1). 2016.--->
 
 
 Version 1.0 (stable, updated 26 August 2016) on <i>master</i> branch.
@@ -201,10 +201,11 @@ Below are samples included and the corresponding file pairs:
    * NH120_S14_L001_R1_001.fastq
    * NH120_S14_L001_R2_001.fastq
 
-<The following sample outputs are provided:
+<!---The following sample outputs are provided:
 
 *  Filtered XXX
 *  stats XXX
 *  thresholded XXX
 
 Note that the sample .db output file containing all parsed data is not included due to file size restrictions.>
+--->
