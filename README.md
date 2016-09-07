@@ -167,9 +167,32 @@ To receive updates to your local branch, e.g. <code>master</code> through your r
   (To clarify, anaconda usually installs most of these packages while installing Python, but they are NOT a part of (i.e. native to) Python.) has many of these packages.) (versions in parentheses). (If already installed, check the version and update as necessary.)
 
 
-### Starting up
+### Starting up the script(s)
 
+The current version of this package executes through the Jupyter Notebook interface. To open the scripts, start up Jupyter via.:
 
+> <code>cd DIRECTORY_PATH</code> where DIRECTORY_PATH is the root directory
+<br/>
+Example: <code>cd "My Documents/barcodetracking"
+
+> <code>jupyter notebook</code>
+
+The interface will load in your default internet browser as a local server (e.g. https://localhost:8888). In this window, you will see your directory and files. Navigate in the window to open the script you wish to run.
+
+At the start of the script, there will be a list of user inputs. Fill these in according to the annotated instructions. Then, in the script's top menu bar, select
+
+> Cell \> Run All
+
+Each cell waiting to be or currently running will be marked with an asterisk \* on the left of the cell. When it is finished, a number will appear that corresponds to the order in which it was executed.
+
+At the bottom of the script, a log will be written to show the script's progress and when it is finished.
+
+### Shutting down the script(s)
+
+After using the script, close the script's window and shut down the script document by:
+
+> 1.  Check off the tick box to the left of the script file. <br/>
+> 2.  A menu bar will appear under the regular top menu, with a few buttons. Select the orange button "Shutdown". When it has been successfully shut down, the notebook icon for that file will turn from green to grey.
 
 _______________________
 ## Sample Data
