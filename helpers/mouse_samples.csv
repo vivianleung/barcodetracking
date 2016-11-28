@@ -1,0 +1,206 @@
+sample_num,mouse_geno,week,tb_strain,tissue,rep,concentration,log_cfu,extracted
+1,B6,4wk,BCG,Lung,1,,5.633468456,
+2,B6,4wk,BCG,Lung,2,397,5.69019608,18-Dec-15
+3,B6,4wk,BCG,Lung,3,116.8 (B=280.9),5.447158031,18-Dec-15
+4,B6,4wk,BCG,Lung,4,,5.721535832,
+5,B6,4wk,BCG,Lung,5,,5.86923172,
+6,B6,4wk,BCG,Lung,6,706.9,5.556302501,18-Dec-15
+7,B6,4wk,naive,Lung,1,58,7.301029996,15-Jul-15
+8,B6,4wk,naive,Lung,2,129.3,6.698970004,15-Jul-15
+9,B6,4wk,naive,Lung,3,75.2,6.544068044,15-Jul-15
+10,B6,4wk,naive,Lung,4,723.9,6.361727836,03-Sep-15
+11,B6,4wk,naive,Lung,5,34.6 (B=225.2),6.361727836,15-Jul-15
+12,B6,4wk,naive,Lung,6,92.9,6.591064607,15-Jul-15
+13,B6,4wk,BCG,Spleen,1,401.2,4.579783597,03-Sep-15
+14,B6,4wk,BCG,Spleen,2,525.6,4.146128036,03-Sep-15
+15,B6,4wk,BCG,Spleen,3,292.9,3.903089987,03-Sep-15
+16,B6,4wk,BCG,Spleen,4,513.8,4.477121255,03-Sep-15
+17,B6,4wk,BCG,Spleen,5,302.9,4.447158031,03-Sep-15
+18,B6,4wk,BCG,Spleen,6,402.3,3.903089987,03-Sep-15
+19,B6,4wk,naive,Spleen,1,92,5.698970004,03-Sep-15
+20,B6,4wk,naive,Spleen,2,76,5.278753601,15-Jul-15
+21,B6,4wk,naive,Spleen,3,260.3,5,03-Sep-15
+22,B6,4wk,naive,Spleen,4,394.4,4.903089987,03-Sep-15
+23,B6,4wk,naive,Spleen,5,98.2,4.431363764,03-Sep-15
+24,B6,4wk,naive,Spleen,6,39.7 (B=882.2),4.698970004,15-Jul-15
+25,B6,14wk,BCG,Lung,1,80.1,5.69019608,15-Jul-15
+26,B6,14wk,BCG,Lung,2,51.6,5.77815125,15-Jul-15
+27,B6,14wk,BCG,Lung,3,98.2,6.049218023,15-Jul-15
+28,B6,14wk,BCG,Lung,4,161.5,6.477121255,15-Jul-15
+29,B6,14wk,BCG,Lung,5,119.5,5.477121255,15-Jul-15
+30,B6,14wk,BCG,Lung,6,59.7,6.477121255,15-Jul-15
+31,B6,14wk,naive,Lung,1,34.1 (B=691.8),6.782950133,18-Dec-15
+32,B6,14wk,naive,Lung,2,65.2,7.06694679,15-Jul-15
+33,B6,14wk,naive,Lung,3,62,7.146128036,15-Jul-15
+34,B6,14wk,naive,Lung,4,48,7.044016829,15-Jul-15
+35,B6,14wk,naive,Lung,5,577.5,6.748188027,03-Sep-15
+36,B6,14wk,naive,Lung,6,48.3,5.77815125,15-Jul-15
+37,B6,14wk,BCG,Spleen,1,68.7,4.748188027,18-Dec-15
+38,B6,14wk,BCG,Spleen,2,62.4 (B=467.6),5.230448921,18-Dec-15
+39,B6,14wk,BCG,Spleen,3,577.5,5.146128036,18-Dec-15
+40,B6,14wk,BCG,Spleen,4,801.2,5.322219295,18-Dec-15
+41,B6,14wk,BCG,Spleen,5,404.4 (B=291.4),5.255272505,18-Dec-15
+42,B6,14wk,BCG,Spleen,6,361.5,5.361727836,18-Dec-15
+43,B6,14wk,naive,Spleen,1,93.3,5.920818754,15-Jul-15
+44,B6,14wk,naive,Spleen,2,73.2,5.51851394,15-Jul-15
+45,B6,14wk,naive,Spleen,3,27.7,5.322219295,15-Jul-15
+46,B6,14wk,naive,Spleen,4,72.1,5.491361694,15-Jul-15
+47,B6,14wk,naive,Spleen,5,41.9,5.146128036,15-Jul-15
+48,B6,14wk,naive,Spleen,6,37.7,5.397940009,15-Jul-15
+49,B6,4wk,BCG,Peripheral LN,1,,,
+50,B6,4wk,BCG,Peripheral LN,2,,,
+51,B6,4wk,BCG,Peripheral LN,3,,,
+52,B6,4wk,BCG,Peripheral LN,4,,,
+53,B6,4wk,BCG,Peripheral LN,5,,,
+54,B6,4wk,BCG,Peripheral LN,6,,,
+55,B6,4wk,naive,Peripheral LN,1,274.4,,03-Sep-15
+56,B6,4wk,naive,Peripheral LN,2,78.4,,03-Sep-15
+57,B6,4wk,naive,Peripheral LN,3,150.6,,03-Sep-15
+58,B6,4wk,naive,Peripheral LN,4,1673.5,,03-Sep-15
+59,B6,4wk,naive,Peripheral LN,5,464.8,,03-Sep-15
+60,B6,4wk,naive,Peripheral LN,6,162.4,,03-Sep-15
+61,B6,4wk,BCG,Thoracic LN,1,181.4,,03-Sep-15
+62,B6,4wk,BCG,Thoracic LN,2,122.3,,03-Sep-15
+63,B6,4wk,BCG,Thoracic LN,3,241.1 (B=2177.9),,03-Sep-15
+64,B6,4wk,BCG,Thoracic LN,4,375.7,,03-Sep-15
+65,B6,4wk,BCG,Thoracic LN,5,240.8 (B=228.2),,03-Sep-15
+66,B6,4wk,BCG,Thoracic LN,6,736.7 (B=894.7),,03-Sep-15
+67,B6,4wk,naive,Thoracic LN,1,570.6 (B=20),,03-Sep-15
+68,B6,4wk,naive,Thoracic LN,2,866.2,,03-Sep-15
+69,B6,4wk,naive,Thoracic LN,3,475.8 (B=112),,03-Sep-15
+70,B6,4wk,naive,Thoracic LN,4,591.4 (B=688.3),,03-Sep-15
+71,B6,4wk,naive,Thoracic LN,5,187.8,,03-Sep-15
+72,B6,4wk,naive,Thoracic LN,6,368.6 (B=1064.9),,03-Sep-15
+73,B6,14wk,BCG,Peripheral LN,10,535.5,,01-Oct-15
+74,B6,14wk,BCG,Peripheral LN,11,,,
+75,B6,14wk,BCG,Peripheral LN,12,483.2,,01-Oct-15
+76,B6,14wk,BCG,Peripheral LN,13,205.3,,03-Sep-15
+77,B6,14wk,BCG,Peripheral LN,14,,,
+78,B6,14wk,BCG,Peripheral LN,15,,,
+79,B6,14wk,naive,Peripheral LN,22,319.5,,01-Oct-15
+80,B6,14wk,naive,Peripheral LN,23,344.5,,01-Oct-15
+81,B6,14wk,naive,Peripheral LN,24,104.1,,01-Oct-15
+82,B6,14wk,naive,Peripheral LN,25,135.5,,03-Sep-15
+83,B6,14wk,naive,Peripheral LN,26,338.1,,01-Oct-15
+84,B6,14wk,naive,Peripheral LN,27,153.6,,01-Oct-15
+85,B6,14wk,BCG,Thoracic LN,10,693.9,,01-Oct-15
+86,B6,14wk,BCG,Thoracic LN,11,112.8,,03-Sep-15
+87,B6,14wk,BCG,Thoracic LN,12,226.7,,03-Sep-15
+88,B6,14wk,BCG,Thoracic LN,13,43..6,,03-Sep-15
+89,B6,14wk,BCG,Thoracic LN,14,314.8,,01-Oct-15
+90,B6,14wk,BCG,Thoracic LN,15,68.3,,03-Sep-15
+91,B6,14wk,naive,Thoracic LN,22,925.3,,03-Sep-15
+92,B6,14wk,naive,Thoracic LN,23,40.9,,03-Sep-15
+93,B6,14wk,naive,Thoracic LN,24,44,,03-Sep-15
+94,B6,14wk,naive,Thoracic LN,25,298.3,,03-Sep-15
+95,B6,14wk,naive,Thoracic LN,26,384.3,,03-Sep-15
+96,B6,14wk,naive,Thoracic LN,27,107.4,,03-Sep-15
+97,CAST,4wk,BCG,Lung,1,-,,
+98,CAST,4wk,BCG,Lung,2,281.9,,01-Oct-15
+99,CAST,4wk,BCG,Lung,3,-,,
+100,CAST,4wk,BCG,Lung,4,-,,
+101,CAST,4wk,BCG,Lung,5,419.9,,01-Oct-15
+102,CAST,4wk,naive,Lung,1,473.6,,01-Oct-15
+103,CAST,4wk,naive,Lung,2,-,,
+104,CAST,4wk,naive,Lung,3,558.7,,01-Oct-15
+105,CAST,4wk,naive,Lung,4,-,,
+106,CAST,4wk,naive,Lung,5,-,,
+107,129,4wk,naive,Lung,1,-,,
+108,129,4wk,naive,Lung,2,-,,
+109,129,4wk,naive,Lung,3,-,,
+110,129,4wk,naive,Lung,4,-,,
+111,129,4wk,naive,Lung,5,-,,
+112,129,4wk,naive,Lung,6,-,,
+113,129,4wk,BCG,Lung,1,-,,
+114,129,4wk,BCG,Lung,2,-,,
+115,129,4wk,BCG,Lung,3,1167.9,,01-Oct-15
+116,129,4wk,BCG,Lung,4,757.2,,01-Oct-15
+117,129,4wk,BCG,Lung,5,-,,
+118,129,4wk,BCG,Lung,6,-,,
+119,WSB,4wk,naive,Lung,1,512.4,,01-Oct-15
+120,WSB,4wk,naive,Lung,2,430.1,,01-Oct-15
+121,WSB,4wk,naive,Lung,3,668.7,,01-Oct-15
+122,WSB,4wk,naive,Lung,4,1030.1,,01-Oct-15
+123,WSB,4wk,naive,Lung,5,476.6,,01-Oct-15
+124,WSB,4wk,BCG,Lung,1,511.2,,01-Oct-15
+125,WSB,4wk,BCG,Lung,2,683.8,,01-Oct-15
+126,WSB,4wk,BCG,Lung,3,968.8,,01-Oct-15
+127,WSB,4wk,BCG,Lung,4,149.2,,01-Oct-15
+128,WSB,4wk,BCG,Lung,5,437.3,,01-Oct-15
+129,NOD,4wk,BCG,Lung,1,-,,
+130,NOD,4wk,BCG,Lung,2,-,,
+131,NOD,4wk,BCG,Lung,4,-,,
+132,NOD,4wk,BCG,Lung,5,719,,01-Oct-15
+133,NOD,4wk,naive,Lung,1,-,,
+134,NOD,4wk,naive,Lung,2,-,,
+135,NOD,4wk,naive,Lung,3,275.5,,01-Oct-15
+136,NOD,4wk,naive,Lung,4,-,,
+137,NOD,4wk,naive,Lung,5,-,,
+138,AJ,4wk,BCG,Lung,1,-,,
+139,AJ,4wk,BCG,Lung,2,254.9,,01-Oct-15
+140,AJ,4wk,BCG,Lung,3,-,,
+141,AJ,4wk,BCG,Lung,4,345.3,,01-Oct-15
+142,AJ,4wk,BCG,Lung,5,990.4,,01-Oct-15
+143,AJ,4wk,BCG,Lung,6,-,,
+144,AJ,4wk,naive,Lung,1,-,,
+145,AJ,4wk,naive,Lung,2,-,,
+146,AJ,4wk,naive,Lung,3,-,,
+147,AJ,4wk,naive,Lung,4,-,,
+148,AJ,4wk,naive,Lung,5,528.9,,01-Oct-15
+149,AJ,4wk,naive,Lung,6,-,,
+150,PWK,4wk,BCG,Lung,1,263.8,,01-Oct-15
+151,PWK,4wk,BCG,Lung,2,-,,
+152,PWK,4wk,BCG,Lung,3,462.1,,01-Oct-15
+153,PWK,4wk,BCG,Lung,4,413.1,,01-Oct-15
+154,PWK,4wk,BCG,Lung,5,207.1,,01-Oct-15
+155,PWK,4wk,BCG,Lung,6,206.4,,01-Oct-15
+156,PWK,4wk,naive,Lung,1,543.4,,01-Oct-15
+157,PWK,4wk,naive,Lung,2,351.3,,01-Oct-15
+158,PWK,4wk,naive,Lung,3,799.9,,01-Oct-15
+159,PWK,4wk,naive,Lung,4,286,,01-Oct-15
+160,PWK,4wk,naive,Lung,5,-,,
+161,PWK,4wk,naive,Lung,6,581.5,,01-Oct-15
+162,NZO,4wk,BCG,Lung,1,-,,
+163,NZO,4wk,BCG,Lung,2,-,,
+164,NZO,4wk,BCG,Lung,3,-,,
+165,NZO,4wk,BCG,Lung,4,-,,
+166,NZO,4wk,BCG,Lung,5,-,,
+167,NZO,4wk,naive,Lung,1,-,,
+168,NZO,4wk,naive,Lung,2,-,,
+169,NZO,4wk,naive,Lung,3,415.7,,01-Oct-15
+170,NZO,4wk,naive,Lung,4,-,,
+171,NZO,4wk,naive,Lung,5,713.8,,01-Oct-15
+172,Black Jumpy,4wk,BCG,Lung,4,-,,
+173,Black Jumpy,4wk,BCG,Lung,5,340.2,,01-Oct-15
+174,Black Jumpy,4wk,BCG,Lung,6,384.5,,01-Oct-15
+175,Black Jumpy,4wk,BCG,Lung,7,389.8,,01-Oct-15
+176,Black Jumpy,4wk,BCG,Lung,8,458.3,,01-Oct-15
+177,Black Jumpy,4wk,BCG,Lung,9,388.8,,01-Oct-15
+178,Black Jumpy,4wk,naive,Lung,18,885.8,,01-Oct-15
+179,Black Jumpy,4wk,naive,Lung,19,-,,
+180,Black Jumpy,4wk,naive,Lung,20,568.5,,01-Oct-15
+181,Black Jumpy,4wk,naive,Lung,21,1352.7,,01-Oct-15
+182,Black Jumpy,4wk,naive,Lung,26,-,,
+183,Black Jumpy,4wk,naive,Lung,27,-,,
+184,Agouti,4wk,BCG,Lung,1,-,,
+185,Agouti,4wk,BCG,Lung,2,-,,
+186,Agouti,4wk,BCG,Lung,3,292.2,,01-Oct-15
+187,Agouti,4wk,BCG,Lung,4,-,,
+188,Agouti,4wk,BCG,Lung,14,176.5,,01-Oct-15
+189,Agouti,4wk,BCG,Lung,15,235.3,,01-Oct-15
+190,Agouti,4wk,naive,Lung,19,1228.9,,01-Oct-15
+191,Agouti,4wk,naive,Lung,23,526.3,,01-Oct-15
+192,Agouti,4wk,naive,Lung,24,774.6,,01-Oct-15
+193,Agouti,4wk,naive,Lung,25,432.8,,01-Oct-15
+194,Agouti,4wk,naive,Lung,26,685.2,,01-Oct-15
+195,Agouti,4wk,naive,Lung,27,-,,
+196,White,4wk,BCG,Lung,1,627.5,,01-Oct-15
+197,White,4wk,BCG,Lung,2,577.5,,01-Oct-15
+198,White,4wk,BCG,Lung,3,442.6,,01-Oct-15
+199,White,4wk,BCG,Lung,4,581.3,,01-Oct-15
+200,White,4wk,BCG,Lung,14,530.1,,01-Oct-15
+201,White,4wk,BCG,Lung,15,767.7,,01-Oct-15
+202,White,4wk,naive,Lung,19,585.5,,01-Oct-15
+203,White,4wk,naive,Lung,20,555.4,,01-Oct-15
+204,White,4wk,naive,Lung,21,525.8,,01-Oct-15
+205,White,4wk,naive,Lung,22,540.5,,01-Oct-15
