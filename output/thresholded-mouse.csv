@@ -1,0 +1,78 @@
+mouse_geno,week,tb_strain,tissue,rep,value,arb_rep
+B6,4,BCG,Lung,3,129,1
+B6,4,BCG,Spleen,1,39,1
+B6,4,BCG,Spleen,2,42,2
+B6,4,BCG,Spleen,3,35,3
+B6,4,BCG,Spleen,4,36,4
+B6,4,BCG,Spleen,5,38,5
+B6,4,BCG,Spleen,6,10,6
+B6,4,BCG,Thoracic LN,1,94,1
+B6,4,BCG,Thoracic LN,2,20,2
+B6,4,BCG,Thoracic LN,3,77,3
+B6,4,BCG,Thoracic LN,4,134,4
+B6,4,BCG,Thoracic LN,5,94,5
+B6,4,BCG,Thoracic LN,6,59,6
+B6,4,naive,Lung,1,63,1
+B6,4,naive,Lung,2,60,2
+B6,4,naive,Lung,3,284,3
+B6,4,naive,Lung,4,11,4
+B6,4,naive,Lung,5,138,5
+B6,4,naive,Peripheral LN,1,12,1
+B6,4,naive,Peripheral LN,2,1,2
+B6,4,naive,Peripheral LN,3,1,3
+B6,4,naive,Peripheral LN,4,1,4
+B6,4,naive,Peripheral LN,5,1,5
+B6,4,naive,Peripheral LN,6,3,6
+B6,4,naive,Spleen,1,66,1
+B6,4,naive,Spleen,2,84,2
+B6,4,naive,Spleen,3,25,3
+B6,4,naive,Spleen,4,57,4
+B6,4,naive,Spleen,5,16,5
+B6,4,naive,Spleen,6,46,6
+B6,4,naive,Thoracic LN,1,14,1
+B6,4,naive,Thoracic LN,2,22,2
+B6,4,naive,Thoracic LN,3,33,3
+B6,4,naive,Thoracic LN,4,50,4
+B6,4,naive,Thoracic LN,5,38,5
+B6,4,naive,Thoracic LN,6,36,6
+B6,14,BCG,Lung,1,200,1
+B6,14,BCG,Lung,2,214,2
+B6,14,BCG,Lung,3,207,3
+B6,14,BCG,Lung,4,237,4
+B6,14,BCG,Lung,5,231,5
+B6,14,BCG,Lung,6,225,6
+B6,14,BCG,Peripheral LN,10,1,1
+B6,14,BCG,Peripheral LN,12,1,2
+B6,14,BCG,Peripheral LN,13,2,3
+B6,14,BCG,Spleen,1,22,1
+B6,14,BCG,Spleen,2,63,2
+B6,14,BCG,Spleen,5,55,3
+B6,14,BCG,Thoracic LN,10,52,1
+B6,14,BCG,Thoracic LN,11,161,2
+B6,14,BCG,Thoracic LN,12,105,3
+B6,14,BCG,Thoracic LN,13,48,4
+B6,14,BCG,Thoracic LN,14,1,5
+B6,14,BCG,Thoracic LN,15,87,6
+B6,14,naive,Lung,1,228,1
+B6,14,naive,Lung,2,228,2
+B6,14,naive,Lung,3,234,3
+B6,14,naive,Lung,4,196,4
+B6,14,naive,Lung,5,5,5
+B6,14,naive,Lung,6,202,6
+B6,14,naive,Peripheral LN,22,1,1
+B6,14,naive,Peripheral LN,23,4,2
+B6,14,naive,Peripheral LN,24,1,3
+B6,14,naive,Peripheral LN,25,1,4
+B6,14,naive,Peripheral LN,26,1,5
+B6,14,naive,Spleen,1,52,1
+B6,14,naive,Spleen,2,78,2
+B6,14,naive,Spleen,3,108,3
+B6,14,naive,Spleen,4,102,4
+B6,14,naive,Spleen,5,76,5
+B6,14,naive,Spleen,6,65,6
+B6,14,naive,Thoracic LN,22,165,1
+B6,14,naive,Thoracic LN,23,5,2
+B6,14,naive,Thoracic LN,24,146,3
+B6,14,naive,Thoracic LN,25,113,4
+B6,14,naive,Thoracic LN,26,137,5
+B6,14,naive,Thoracic LN,27,170,6
