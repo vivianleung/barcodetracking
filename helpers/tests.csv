@@ -1,0 +1,28 @@
+ID,Category,Description
+1,single,1; 20ng; 15 cycles
+2,single,1; 20ng; 20 cycles
+3,single,1; 20ng; 25 cycles
+4,single,2; 20ng; 15 cycles
+5,single,2; 20ng; 20 cycles
+6,single,2; 20ng; 25 cycles
+7,double,50:50:00
+8,double,60:40:00
+9,double,80:20:00
+10,double,90:10:00
+11,double,95:05:00
+12,double,99:01:00
+13,double,99.9:0.1
+14,triple,33:33:33
+15,triple,50:25:25
+16,triple,80:10:10
+17,multi,1:24.8s
+18,multi,4:24s
+19,multi,10:22.5s
+20,multi,20s
+21,multi,60:10s
+22,multi,80:5s
+23,multi,96:1s
+24,unevens,30:25:20:15:10
+25,unevens,40:30:15:10:5
+26,unevens,60:20:15:4:1
+27,neg,neg

@@ -1,0 +1,164 @@
+monkey,tube,tissue_name,tissue_type,count,weight,vol,CFU_per_gram,CFU_per_granuloma,sample_type
+18014,1,RLL gr 8 NEW,Gran,4,,< 5,,38.48096,scrapate
+18014,2,RLL gr 10 ,Gran,43,,< 5,,807.7344675,scrapate
+18014,3,RLL gr 21,Gran,80,,< 5,,4123.476,scrapate
+18014,4,RLL gr 11,Gran,53,,< 5,,1736.223025,scrapate
+18014,5,RLL gr 9,Gran,40,,< 5,,1223.2738,scrapate
+18014,6,RLL gr 6B,Gran,35,,< 5,,707.83935,scrapate
+18014,7,RLL gr 5,Gran,20,,< 5,,550.47321,scrapate
+18014,8,RLL gr 3,Gran,65,,< 5,,3099.446213,scrapate
+18014,9,RLL gr 4,Gran,53,,< 5,,2048.852138,scrapate
+18014,10,RLL gr 22,Gran,97,,< 5,,3972.019656,scrapate
+18014,11,RLL gr 23,Gran,115,,< 5,,5713.505469,scrapate
+18014,12,RLL gr 25,Gran,47,,< 5,,2617.679981,scrapate
+18014,13,RLL gr 24,Gran,89,,< 5,,1393.185419,scrapate
+18014,14,RLL gr A,Gran,2,,< 5,,47.18929,scrapate
+18014,15,RLL gr A doublet,Gran,39,,< 5,,920.191155,scrapate
+18014,16,RLL gr B,Gran,23,,< 5,,477.4639,scrapate
+18014,17,RLL gr C,Gran,20,,< 5,,64.13493333,scrapate
+18014,18,RLL gr 12A,Gran,74,,< 5,,1390.054665,scrapate
+18014,19,RLL gr 12B,Gran,130,,< 5,,1278.043271,scrapate
+18014,20,RLL gr 13,Gran,10,,< 5,,125.8381067,scrapate
+18014,21,RLL gr 14A,Gran,16,,< 5,,0,scrapate
+18014,22,RLL gr 14B,Gran,3,,< 5,,28.86072,scrapate
+18014,23,RLL gr 15,Gran,97,,< 5,,2160.978368,scrapate
+18014,24,RLL gr 17,Gran,36,,< 5,,1237.0428,scrapate
+18014,25,RLL gr 19,Gran,19,,< 5,,315.54136,scrapate
+18014,26,RLL gr 20,Gran,122,,< 5,,1972.374863,scrapate
+18014,27,Access,Lung,1,,< 5,,0,scrapate
+18014,28,RLL,Lung,15,,< 5,,1080,scrapate
+18014,29,L. Subclav LN,LN,1,,< 5,,20,scrapate
+18014,30,Exudate of Access Airway,Other,14,,< 5,,210,scrapate
+18014,31,ACC gr 1B,Gran,93,,< 5,,1462.86799,scrapate
+18014,32,RLL gr 2,Gran,25,,< 5,,180.8922783,scrapate
+18014,33,ACC gr 1A,Gran,14,,< 5,,168.3542,scrapate
+18014,34,Central Carinal LN gr,LN gr,14,,< 5,,5600,scrapate
+18014,35,R. Cranial HLN gr,LN gr,20,,< 5,,12000,scrapate
+18114,1,RLL gr B,Gran,3,,< 5,,9.62024,scrapate
+18114,2,RLL gr C,Gran,9,,< 5,,76.96192,scrapate
+18114,3,RLL gr D,Gran,8,,< 5,,76.96192,scrapate
+18114,4,RLL gr E,Gran,30,,< 5,,278.98696,scrapate
+18114,5,RLL gr F,Gran,11,,< 5,,212.351805,scrapate
+18114,6,RLL gr 13,Gran,20,,< 5,,1502.7618,scrapate
+18114,7,RLL gr 15,Gran,4,,< 5,,70.783935,scrapate
+18114,8,RLL gr 16,Gran,19,,< 5,,1427.62371,scrapate
+18114,9,RLL gr 17,Gran,62,,< 5,,1029.66128,scrapate
+18114,10,RLL gr 19 doublet ,Gran,15,,< 5,,773.15175,scrapate
+18114,11,RLL gr 20 NEW,Gran,10,,< 5,,86.58216,scrapate
+18114,12,RLL gr 1,Gran,15,,< 5,,668.343825,scrapate
+18114,13,RLL gr 4,Gran,32,,< 5,,375.69045,scrapate
+18114,14,RLL gr 5,Gran,15,,< 5,,176.9598375,scrapate
+18114,15,RLL gr 6,Gran,1,,< 5,,8.30372,scrapate
+18114,16,RLL gr 7,Gran,37,,< 5,,2780.10933,scrapate
+18114,17,RLL gr 8,Gran,17,,< 5,,1277.34753,scrapate
+18114,18,RLL gr 9,Gran,22,,< 5,,105.82264,scrapate
+18114,19,RLL gr 10,Gran,66,,< 5,,1557.24657,scrapate
+18114,20,RLL gr G,Gran,7,,< 5,,330.32503,scrapate
+18114,21,RLL gr H,Gran,37,,< 5,,436.5009325,scrapate
+18114,22,RLL gr I,Gran,33,,< 5,,778.623285,scrapate
+17914,1,RLL gr 1,Gran,9,,< 5,,212.351805,scrapate
+17914,2,RLL gr 4,Gran,107,,< 5,,8039.77563,scrapate
+17914,3,RLL gr 8,Gran,5,,< 5,,31.13895,scrapate
+17914,4,RLL gr 12,Gran,9,,< 5,,225.41427,scrapate
+17914,5,RLL gr 11,Gran,55,,< 5,,2834.88975,scrapate
+17914,6,RLL gr 13,Gran,30,,< 5,,1834.9107,scrapate
+17914,7,RLL gr 14,Gran,32,,< 5,,755.02864,scrapate
+17914,8,RLL gr 15,Gran,10,,< 5,,166.0744,scrapate
+17914,9,RLL gr 16,Gran,5,,< 5,,96.2024,scrapate
+17914,10,RLL gr 17,Gran,13,,< 5,,62.53156,scrapate
+17914,11,RLL gr 18,Gran,42,,< 5,,2568.87498,scrapate
+17914,12,RLL gr 19,Gran,24,,< 5,,733.96428,scrapate
+17914,13,RLL gr 20,Gran,16,,< 5,,531.43808,scrapate
+17914,14,RLL gr 22,Gran,76,,< 5,,1427.62371,scrapate
+17914,15,RLL gr 23A,Gran,36,,< 5,,849.40722,scrapate
+17914,16,RLL gr 23B,Gran,41,,< 5,,967.380445,scrapate
+17914,17,RLL gr 23C,Gran,43,,< 5,,1014.569735,scrapate
+17914,18,RLL gr 24,Gran,17,,< 5,,978.61904,scrapate
+17914,19,RLL gr 26,Gran,39,,< 5,,795.12797,scrapate
+17814,1,RLL gr 2,Gran,3,,< 5,,267.33753,scrapate
+17814,2,RLL gr 3,Gran,2,,< 5,,19.24048,scrapate
+17814,3,RLL gr 9 cluster,Gran,14,,< 5,,240.5361,scrapate
+17814,4,RLL gr 14,Gran,3,,< 5,,47.18929,scrapate
+17814,5,RLL gr 15,Gran,4,,< 5,,35.3919675,scrapate
+17814,6,RLL gr 16,Gran,10,,< 5,,401.006295,scrapate
+17814,7,RLL gr 18,Gran,20,,< 5,,166.0744,scrapate
+17814,8,RLL gr 23,Gran,11,,< 5,,240,scrapate
+17814,9,RLL gr 26,Gran,2,,< 5,,47.18929,scrapate
+17814,10,RLL gr 29,Gran,15,,< 5,,386.575875,scrapate
+17814,11,RLL gr 30,Gran,8,,< 5,,377.51432,scrapate
+17814,12,RLL gr 10,Gran,6,,< 5,,91.745535,scrapate
+17814,13,RLL gr 11,Gran,6,,< 5,,141.56787,scrapate
+17814,14,RLL gr D,Gran,8,,< 5,,0,scrapate
+17814,15,RLL gr E,Gran,16,,< 5,,489.30952,scrapate
+17814,16,RLL gr F,Gran,4,,< 5,,0,scrapate
+17814,17,RLL gr B,Gran,1,,< 5,,4.81012,scrapate
+17814,18,RLL gr C,Gran,2,,< 5,,94.37858,scrapate
+17814,19,RLL area of 19 w/ gr,Gran,1,,< 5,,0,scrapate
+17814,20,RLL gr 31,Gran,4,,< 5,,94.37858,scrapate
+17814,21,RLL gr 32,Gran,9,,< 5,,122.32738,scrapate
+17814,22,RLL gr 33,Gran,2,,< 5,,122.32738,scrapate
+17814,23,RLL gr 34,Gran,1,,< 5,,75.13809,scrapate
+17814,24,RLL gr 35,Gran,9,,< 5,,550.47321,scrapate
+17814,25,RLL gr 36,Gran,85,,< 5,,7574.56335,scrapate
+17814,26,RLL gr 37,Gran,19,,< 5,,652.8837,scrapate
+17814,27,RLL gr 40,Gran,19,,< 5,,979.32555,scrapate
+17814,28,LLL gr 1,Gran,6,,< 5,,283.13574,scrapate
+17814,29,LLL gr 3 Secondary Gran,Gran,4,,< 5,,19.24048,scrapate
+17814,30,LLL gr A,Gran,5,,< 5,,48.1012,scrapate
+17814,31,Acc gr B,Gran,2,,< 5,,19.24048,scrapate
+17814,32,Acc gr C,Gran,5,,< 5,,19.24048,scrapate
+17814,33,Acc gr D,Gran,1,,< 5,,9.62024,scrapate
+17814,34,Acc gr F,Gran,2,,< 5,,19.24048,scrapate
+17814,35,Liver gr 3,EP,8,,< 5,,153.92384,scrapate
+17814,36,R Cran HLN,LN,8,,< 5,,240,scrapate
+17814,37,Diaphragm gr 1,EP,5,,< 5,,24.0506,scrapate
+17513,1,R cran HLN gr,LN,10^-2; 35,0.36,2,194444.4444,193356.6833,scrapate
+17513,2,R carin LN gran,LN,10^-1; 67,0.28,3,71785.71429,36680.44693,scrapate
+17513,3,RML,Lung,1,0.97,5,25.77319588,,scrapate
+17513,4,RUL 1 coalesc,Lung,10^-2; 20,0.25,2.5,200000,31796.9,scrapate
+17513,5,RUL,Lung,3,2.33,10,64.3776824,0,scrapate
+17513,6,RLL,Lung,7,4.8,10,72.91666667,0,scrapate
+17513,7,RLL gran 1,Gran,10^-1; 102,0.01,2,2040000,181789.5204,scrapate
+17513,8,RLL gran 2,Gran,10^-1; 46,0.02,2,460000,10853.5367,scrapate
+17513,9,RLL gran 3,Gran,135,0.02,2,67500,5071.821075,scrapate
+17513,10,RLL gran 4,Gran,10^-1; 85,0.05,2,340000,63557.322,scrapate
+17513,11,RLL gran 6,Gran,19,0.02,2,9500,448.298255,scrapate
+17513,12,RLL gran 7,Gran,10^-1; 38,0.01,2,760000,57104.9484,scrapate
+17513,13,RLL gran 8,Gran,10^-1; 57,0.03,2,380000,49793.566,scrapate
+17513,14,RLL gran 8A,Gran,10^-1; 35,0.01,2,700000,33032.503,scrapate
+17513,15,RLL gran 9,Gran,10^-1; 14,0.02,2,140000,10519.3326,scrapate
+17513,16,RLL gran 10,Gran,10^-1; 69,0.01,2,1380000,103690.5642,scrapate
+17513,17,RLL gran 11 coalesc,Gran,10^-1; 43,0.09,2,95555.55556,20533.188,scrapate
+17513,18,RLL gran 14,Gran,10^-1; 30,0.01,2,600000,45082.854,scrapate
+17513,19,RLL gran 15,Gran,267,0.02,2,133500,8165.352615,scrapate
+17513,20,RLL gran 16,Gran,282,0.02,2,141000,4312.040145,scrapate
+17513,21,RLL gran 17,Gran,60,0.04,2,15000,1546.3035,scrapate
+17513,22,RLL gran 18,Gran,113,0.02,2,56500,5824.40985,scrapate
+17513,23,RLL gran B (labeled on plate LLL gr B),Gran,9,0.01,2,9000,149.46696,scrapate
+17513,24,RLL gran C,Gran,151,0.02,2.5,94375,2226.744622,scrapate
+17513,25,RLL gran E,Gran,,0.01,2,380000,14276.2371,scrapate
+15614,1,RMS Br LN gran,LN,10^-2; 59,0.14,2,842857.1429,486434.35,scrapate
+15614,2,central carin LN gran,LN,10^-2; 13,1.16,5,56034.48276,132241.3793,scrapate
+15614,3,RLL LN gran A,LN,10^-1; 35,0.11,2,63636.36364,5085.986818,scrapate
+15614,4,RLL LN gran B,LN,10^-2; 22,0.05,2,880000,79288.22,scrapate
+15614,5,RLL LN gran C,LN,10^-1; 71,0.04,2,355000,24759.5105,scrapate
+15614,6,RLL LN gran D,LN,10^-1; 19,0.03,2,126666.6667,9478.954333,scrapate
+15614,7,RLL LN remainder,LN,10^-1; 163,0.24,2,135833.3333,32975.40938,scrapate
+15614,8,RLL,Lung,10^-1; 176,4.01,12.5,54862.84289,478952.6185,scrapate
+15614,9,RLL gran 1,Gran,10^-2; 40,0.04,2,2000000,262071.4,scrapate
+15614,10,RLL gran 2,Gran,10^-2; 27,0.03,2,1800000,185556.42,scrapate
+15614,11,RLL gran 3,Gran,10^-1; 108,0.04,2,540000,63213.102,scrapate
+15614,12,RLL gran 4,Gran,254,0.03,2,84666.66667,7544.85918,scrapate
+15614,13,RLL gran 5,Gran,10^-1; 28,0.02,2,280000,24951.5028,scrapate
+15614,14,RLL gran 6,Gran,10^-1; 94,0.03,2,626666.6667,47086.5364,scrapate
+15614,15,RLL gran 7,Gran,6,0.02,2,3000,183.49107,scrapate
+15614,16,RLL gran 8,Gran,10^-1; 51,0.02,2,510000,52574.319,scrapate
+15614,17,RLL gran 9,Gran,10^-2; 11,0.02,2,1100000,113395.59,scrapate
+15614,18,RLL gran 10,Gran,10^-1; 44,0.03,2,293333.3333,30238.824,scrapate
+15614,19,RLL gran 11,Gran,185,0.03,2,61666.66667,6357.0255,scrapate
+15614,20,RLL gran 12A,Gran,105,0.01,2,105000,3211.093725,scrapate
+15614,21,RLL gran 12B,Gran,45,0.02,2,22500,373.6674,scrapate
+15614,22,RLL gran 13,Gran,163,0.02,2,81500,7262.669565,scrapate
+15614,23,RLL gran 14,Gran,84,0.01,2,84000,3963.90036,scrapate
+15614,24,RLL gran A,Gran,13,0.01,2,13000,613.46077,scrapate
+15614,25,RLL gran B,Gran,74,0.01,2,74000,1746.00373,scrapate
