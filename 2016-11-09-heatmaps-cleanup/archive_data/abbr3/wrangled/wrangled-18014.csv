@@ -1,0 +1,41 @@
+,lesion_tissue_type,lesion_locus,lesion,x,y,z,weeks,barcode,cfu,barcode_dissem_type,barcode_id,lesion_dissem_type,lesion_id,present
+0,Gran,ACC,ACC01A,-27.057426,-9.616441,-87.579002,4.0,q19 ATCCTTT ,168.3542,disseminated,11,disseminating,8,0
+1,Gran,ACC,ACC01B,-27.057426,-9.616441,-87.579002,4.0,q19 ATCCTTT ,168.3542,disseminated,11,disseminating,9,0
+2,Gran,RLL,RLL02,-37.642258,-20.451584,-78.829002,4.0,q24 CGGGTGC,180.892278333,contained,15,containing,26,0
+3,Gran,RLL,RLL03,-43.268566,-11.015831,-81.329002,4.0,q19 CCGCTTT,3099.4462125,disseminated,9,disseminating,4,0
+4,Gran,RLL,RLL04,-42.244423,-16.533388,-85.079002,4.0,q24 CTAAATT,2048.8521375,disseminated,10,disseminating,5,0
+5,Gran,RLL,RLL05,-49.211246,-19.067478,-86.329002,4.0,q23 ATTGTGT,550.47321,disseminated,8,disseminating,7,0
+6,Gran,RLL,RLL06B,-36.925037,-17.432608,-86.329002,4.0,q23 GTTTCTG,707.83935,disseminated,1,disseminating,6,0
+7,Gran,RLL,RLL09,-38.036819,-14.000198,-88.829002,4.0,q19 GAACTTC,1223.2738,disseminated,5,disseminating,10,0
+8,Gran,RLL,RLL10,-40.209152,-15.80988,-91.329002,4.0,q24 GGTTGAT,807.7344675,disseminated,12,disseminating,12,0
+9,Gran,RLL,RLL11,-36.330948,-16.774261,-91.329002,4.0,q23 GTTTCTG,1060.0,disseminated,1,disseminating,11,0
+10,Gran,RLL,RLL12A,-33.04414,-2.567378,-93.829002,4.0,q19 TGATGCC,1390.054665,disseminated,2,disseminating,14,0
+11,Gran,RLL,RLL12B,-32.329174,-5.564779,-92.579002,5.0,q19 TGATGCC,1278.04327083,disseminated,2,disseminating,13,0
+12,Gran,RLL,RLL13,-33.453533,-10.160199,-95.079002,4.0,q19 GATCCAT,125.838106667,disseminated,3,disseminating,15,0
+13,Gran,RLL,RLL14A,-35.07312,-14.103111,-96.329002,4.0,q23 GTTTCTG,28.86072,disseminated,1,disseminating,16,0
+14,Gran,RLL,RLL14B,-35.07312,-14.103111,-96.329002,4.0,q23 GTTTCTG,28.86072,disseminated,1,disseminating,17,0
+15,Gran,RLL,RLL15,-44.692226,-12.564417,-97.579002,4.0,q24 GCGTCTC,2160.9783675,contained,16,containing,27,0
+16,Gran,RLL,RLL17,-50.057438,-4.569844,-101.329002,4.0,q24 GGGATAT,1237.0428,contained,17,containing,28,0
+17,Gran,RLL,RLL19,-40.428448,-0.491216,-101.329002,5.0,q19 TGTATGG,315.54136,disseminated,4,disseminating,18,0
+18,Gran,RLL,RLL20,-43.553032,0.44126,-102.579002,4.0,q19 TGTATGG,1972.3748625,disseminated,4,disseminating,19,0
+19,Gran,RLL,RLL21,-49.488518,-2.346283,-106.329002,4.0,q23 AGTTATT,4123.476,contained,18,containing,29,0
+20,Gran,RLL,RLL21,-49.488518,-2.346283,-106.329002,4.0,q24 GAGTGTG,4123.476,contained,19,containing,29,0
+21,Gran,RLL,RLL22,-33.295799,-6.633871,-108.829002,4.0,q24 TCGGTTC,2425.0,disseminated,7,disseminating,20,0
+22,Gran,RLL,RLL23,-42.825924,1.077133,-113.829002,4.0,q19 GGGCTGG,2875.0,disseminated,6,disseminating,21,0
+23,Gran,RLL,RLL23,-42.825924,1.077133,-113.829002,4.0,q19 TGTTATG,2875.0,disseminated,13,disseminating,21,0
+24,Gran,RLL,RLL24,-34.644409,-3.600517,-116.329002,4.0,q23 GCCCCTG,1393.18541875,contained,20,containing,30,0
+25,Gran,RLL,RLL25,-37.277809,-1.806119,-116.329002,4.0,q19 TGTTATG,2617.67998125,disseminated,13,disseminating,22,0
+26,Gran,RLL,RLLA,-33.038303,-13.306797,-68.829002,15.0,q23 ATTGTGT,47.18929,disseminated,8,disseminating,3,0
+27,LN,LN,Central Carinal LN,-17.8221,-13.891901,-58.828999,,q23 GTTTCTG,5600.0,disseminated,1,disseminating,2,0
+28,LN,LN,Central Carinal LN,-17.8221,-13.891901,-58.828999,,q19 TGTATGG,5600.0,disseminated,4,disseminating,2,0
+29,LN,LN,Central Carinal LN,-17.8221,-13.891901,-58.828999,,q19 ATCCTTT,5600.0,contained,14,disseminating,2,0
+30,LN,LN,Central Carinal LN,-17.8221,-13.891901,-58.828999,,q19 GATCCAT,5600.0,disseminated,3,disseminating,2,0
+31,LN,LN,R Cranial HLN,-23.283037,-20.980059,-45.078999,,q19 GGGCTGG,12000.0,disseminated,6,disseminating,1,0
+32,LN,LN,R Cranial HLN,-23.283037,-20.980059,-45.078999,,q24 TCGGTTC,12000.0,disseminated,7,disseminating,1,0
+33,LN,LN,R Cranial HLN,-23.283037,-20.980059,-45.078999,,q19 TGATGCC,12000.0,disseminated,2,disseminating,1,0
+34,LN,LN,R Cranial HLN,-23.283037,-20.980059,-45.078999,,q19 GAACTTC,12000.0,disseminated,5,disseminating,1,0
+35,LN,LN,L Subclavian LN,,,,,q19 GGTGGGC,20.0,contained,21,containing,31,0
+36,Gran,RLL,RLLA doublet,,,,,q24 CTAAATT,920.191155,disseminated,10,disseminating,25,0
+37,Gran,RLL,RLLA doublet,,,,,q24 GGTTGAT,920.191155,disseminated,12,disseminating,25,0
+38,Gran,RLL,RLL gran B,,,,,q19 GATCCAT,477.4639,disseminated,3,disseminating,23,0
+39,Gran,RLL,RLL gran C,,,,,q19 CCGCTTT,64.1349333333,disseminated,9,disseminating,24,0

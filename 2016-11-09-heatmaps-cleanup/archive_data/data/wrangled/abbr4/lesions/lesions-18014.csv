@@ -1,0 +1,32 @@
+lesion,lesion_tissue_type,lesion_locus,z,min_barcode_id,lesion_dissem_type,lesion_id
+ACC01A,Gran,ACC,-87.579002,6,disseminating,1
+ACC01B,Gran,ACC,-87.579002,6,disseminating,2
+RLLA,Gran,RLL,-68.829002,1,disseminating,3
+RLL02,Gran,RLL,-78.829002,14,contained,4
+RLL03,Gran,RLL,-81.329002,2,disseminating,5
+RLL04,Gran,RLL,-85.079002,3,disseminating,6
+RLLA doublet,Gran,RLL,-86.3,3,disseminating,7
+RLL05,Gran,RLL,-86.329002,1,disseminating,8
+RLL06B,Gran,RLL,-86.329002,5,disseminating,9
+RLL09,Gran,RLL,-88.829002,7,disseminating,10
+RLL10,Gran,RLL,-91.329002,4,disseminating,11
+RLL11,Gran,RLL,-91.329002,5,disseminating,12
+RLL12B,Gran,RLL,-92.579002,8,disseminating,13
+RLL12A,Gran,RLL,-93.829002,8,disseminating,14
+RLL13,Gran,RLL,-95.079002,9,disseminating,15
+RLL14A,Gran,RLL,-96.329002,5,disseminating,16
+RLL14B,Gran,RLL,-96.329002,5,disseminating,17
+RLL15,Gran,RLL,-97.579002,15,contained,18
+RLL19,Gran,RLL,-101.329002,10,disseminating,19
+RLL17,Gran,RLL,-101.329002,16,contained,20
+RLL20,Gran,RLL,-102.579002,10,disseminating,21
+RLL21,Gran,RLL,-106.329002,17,contained,22
+RLL22,Gran,RLL,-108.829002,11,disseminating,23
+RLL23,Gran,RLL,-113.829002,12,disseminating,24
+RLL25,Gran,RLL,-116.329002,13,disseminating,25
+RLL24,Gran,RLL,-116.329002,19,contained,26
+RLL gran C,Gran,RLL,-inf,2,disseminating,27
+RLL gran B,Gran,RLL,-inf,9,disseminating,28
+L Subclavian LN,LN,LN,-28.8,21,contained,29
+R Cranial HLN,LN,LN,-45.078999,7,disseminating,30
+Central Carinal LN,LN,LN,-58.828999,5,disseminating,31

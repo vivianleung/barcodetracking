@@ -1,0 +1,32 @@
+lesion,min_barcode_id,z,lesion_dissem_type,lesion_id
+R Cranial HLN,2,-45.078999,disseminating,1
+Central Carinal LN,1,-58.828999,disseminating,2
+RLLA,8,-68.829002,disseminating,3
+RLL03,9,-81.329002,disseminating,4
+RLL04,10,-85.079002,disseminating,5
+RLL06B,1,-86.329002,disseminating,6
+RLL05,8,-86.329002,disseminating,7
+ACC01A,11,-87.579002,disseminating,8
+ACC01B,11,-87.579002,disseminating,9
+RLL09,5,-88.829002,disseminating,10
+RLL11,1,-91.329002,disseminating,11
+RLL10,12,-91.329002,disseminating,12
+RLL12B,2,-92.579002,disseminating,13
+RLL12A,2,-93.829002,disseminating,14
+RLL13,3,-95.079002,disseminating,15
+RLL14A,1,-96.329002,disseminating,16
+RLL14B,1,-96.329002,disseminating,17
+RLL19,4,-101.329002,disseminating,18
+RLL20,4,-102.579002,disseminating,19
+RLL22,7,-108.829002,disseminating,20
+RLL23,6,-113.829002,disseminating,21
+RLL25,13,-116.329002,disseminating,22
+RLL gran B,3,,disseminating,23
+RLL gran C,9,,disseminating,24
+RLLA doublet,10,,disseminating,25
+RLL02,15,-78.829002,containing,26
+RLL15,16,-97.579002,containing,27
+RLL17,17,-101.329002,containing,28
+RLL21,18,-106.329002,containing,29
+RLL24,20,-116.329002,containing,30
+L Subclavian LN,21,,containing,31

@@ -1,0 +1,26 @@
+lesion,lesion_tissue_type,lesion_locus,z,min_barcode_id,lesion_dissem_type,lesion_id
+diaphragm01,EP,EP,-217.643005,5,disseminating,1
+LLL01,Gran,LLL,-188.893005,8,contained,2
+RLL02,Gran,RLL,-187.643005,6,contained,3
+RLL03,Gran,RLL,-191.393005,9,contained,4
+RLL09,Gran,RLL,-196.393005,1,disseminating,5
+RLL10,Gran,RLL,-196.393005,1,disseminating,6
+RLL11,Gran,RLL,-198.893005,2,disseminating,7
+RLL15,Gran,RLL,-201.393005,12,contained,8
+RLL16,Gran,RLL,-201.393005,13,contained,9
+RLL14,Gran,RLL,-201.393005,14,contained,10
+RLL18,Gran,RLL,-203.893005,15,contained,11
+RLL23,Gran,RLL,-206.393005,3,disseminating,12
+RLL26,Gran,RLL,-210.143005,16,contained,13
+RLL33,Gran,RLL,-215.143005,1,disseminating,14
+RLL29,Gran,RLL,-215.143005,4,disseminating,15
+RLL31,Gran,RLL,-215.143005,17,contained,16
+RLL30,Gran,RLL,-215.143005,18,contained,17
+RLL32,Gran,RLL,-215.143005,19,contained,18
+RLL35,Gran,RLL,-222.643005,20,contained,19
+RLL36,Gran,RLL,-225.143005,5,disseminating,20
+RLL37,Gran,RLL,-225.143005,21,contained,21
+RLLB,Gran,RLL,-inf,1,disseminating,22
+RLLE,Gran,RLL,-inf,2,disseminating,23
+RLLC,Gran,RLL,-inf,3,disseminating,24
+R Cranial HLN,LN,LN,-136.393005,1,disseminating,25

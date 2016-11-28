@@ -1,0 +1,26 @@
+lesion,min_barcode_id,z,lesion_dissem_type,lesion_id
+R Cranial HLN,1,-136.393005,disseminating,1
+RLL09,1,-196.393005,disseminating,2
+RLL10,1,-196.393005,disseminating,3
+RLL11,4,-198.893005,disseminating,4
+RLL23,2,-206.393005,disseminating,5
+RLL33,1,-215.143005,disseminating,6
+RLL29,3,-215.143005,disseminating,7
+diaphragm01,5,-217.643005,disseminating,8
+RLL36,5,-225.143005,disseminating,9
+RLLB,1,,disseminating,10
+RLLC,2,,disseminating,11
+RLLE,2,,disseminating,12
+RLL02,7,-187.643005,containing,13
+LLL01,9,-188.893005,containing,14
+RLL03,10,-191.393005,containing,15
+RLL15,13,-201.393005,containing,16
+RLL16,14,-201.393005,containing,17
+RLL14,15,-201.393005,containing,18
+RLL18,16,-203.893005,containing,19
+RLL26,17,-210.143005,containing,20
+RLL31,18,-215.143005,containing,21
+RLL30,19,-215.143005,containing,22
+RLL32,20,-215.143005,containing,23
+RLL35,21,-222.643005,containing,24
+RLL37,22,-225.143005,containing,25

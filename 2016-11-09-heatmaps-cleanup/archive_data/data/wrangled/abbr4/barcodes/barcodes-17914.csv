@@ -1,0 +1,22 @@
+barcode,gran_pos,lesion_list,max_lesion_z,barcode_dissem_type,num_lesions,barcode_id
+q19 TTGTGGC,True,[u'RLL08' u'RLL11'],-157.488998,disseminated,2,1
+q24 GGCTATG,True,[u'RLL16' u'RLL17'],-167.488998,disseminated,2,2
+q24 ATCCGGT,True,[u'RLL23A' u'RLL23B'],-174.988998,disseminated,2,3
+q24 GCGAATT,True,[u'RLL01'],-144.988998,contained,1,4
+q19 TCAGTGG,True,[u'RLL05'],-156.238998,contained,1,5
+q24 ACCTAGT,True,[u'RLL04'],-156.238998,contained,1,6
+q19 GGCGGGG,True,[u'RLL11'],-159.988998,contained,1,7
+q24 TTGGCGT,True,[u'RLL11'],-159.988998,contained,1,8
+q19 CGTGAGG,True,[u'RLL12'],-161.238998,contained,1,9
+q23 CGGGCCT,True,[u'RLL13'],-161.238998,contained,1,10
+q23 CCTTTTG,True,[u'RLL14'],-162.488998,contained,1,11
+q19 GGGTCAC,True,[u'RLL15'],-167.488998,contained,1,12
+q23 GCGCGAA,True,[u'RLL17'],-167.488998,contained,1,13
+q24 TTTGGGA,True,[u'RLL18'],-167.488998,contained,1,14
+q23 AGTCGGG,True,[u'RLL20'],-172.488998,contained,1,15
+q23 GCCACAT,True,[u'RLL22'],-174.988998,contained,1,16
+q24 AGCGTTA,True,[u'RLL23C'],-174.988998,contained,1,17
+q24 ATCATCG,True,[u'RLL23A'],-174.988998,contained,1,18
+q24 CGAGGGG,True,[u'RLL23C'],-174.988998,contained,1,19
+q23 GTCAGGC,True,[u'RLL24'],-176.238998,contained,1,20
+q23 TTGGCGA,True,[u'RLL26'],-177.488998,contained,1,21
