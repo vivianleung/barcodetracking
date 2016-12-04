@@ -1,0 +1,49 @@
+Sample Number,Sample,Scraped/Extracted/Date sent,Concentration (ng/ul)
+V1,B6 4wk BCG Lung 1,to be scraped,
+V2,B6 4wk BCG Lung 2,to be scraped,
+V3,B6 4wk BCG Lung 3,extracted,
+V4,B6 4wk BCG Lung 4,to be scraped,
+V5,B6 4wk BCG Lung 5,to be scraped,
+V6,B6 4wk BCG Lung 6,to be scraped,
+V7,B6 4wk naive Lung 1,42200,58
+V8,B6 4wk naive Lung 2,42200,129.3
+V9,B6 4wk naive Lung 3,42200,75.2
+V10,B6 4wk naive Lung 4,extracted,
+V11,B6 4wk naive Lung 5,42200,34.6
+V12,B6 4wk naive Lung 6,42200,92.9
+V13,B6 4wk BCG Spleen 1,extracted,
+V14,B6 4wk BCG Spleen 2,extracted,
+V15,B6 4wk BCG Spleen 3,extracted,
+V16,B6 4wk BCG Spleen 4,extracted,
+V17,B6 4wk BCG Spleen 5,extracted,
+V18,B6 4wk BCG Spleen 6,extracted,
+V19,B6 4wk naive Spleen 1,extracted,
+V20,B6 4wk naive Spleen 2,42200,76
+V21,B6 4wk naive Spleen 3,extracted,
+V22,B6 4wk naive Spleen 4,extracted,
+V23,B6 4wk naive Spleen 5,extracted,
+V24,B6 4wk naive Spleen 6,42200,39.7
+V25,B6 14wk BCG Lung 1,42200,80.1
+V26,B6 14wk BCG Lung 2,42200,51.6
+V27,B6 14wk BCG Lung 3,42200,98.2
+V28,B6 14wk BCG Lung 4,42200,161.5
+V29,B6 14wk BCG Lung 5,42200,119.5
+V30,B6 14wk BCG Lung 6,42200,59.7
+V31,B6 14wk naive Lung 1,42200,34.1
+V32,B6 14wk naive Lung 2,42200,65.2
+V33,B6 14wk naive Lung 3,42200,62
+V34,B6 14wk naive Lung 4,42200,48
+V35,B6 14wk naive Lung 5,extracted,
+V36,B6 14wk naive Lung 6,42200,48.3
+V37,B6 14wk BCG Spleen 1,42200,68.7
+V38,B6 14wk BCG Spleen 2,42200,62.4
+V39,B6 14wk BCG Spleen 3,to be scraped,
+V40,B6 14wk BCG Spleen 4,to be scraped,
+V41,B6 14wk BCG Spleen 5,extracted,
+V42,B6 14wk BCG Spleen 6,to be scraped,
+V43,B6 14wk naive Spleen 1,42200,93.3
+V44,B6 14wk naive Spleen 2,42200,73.2
+V45,B6 14wk naive Spleen 3,42200,27.7
+V46,B6 14wk naive Spleen 4,42200,72.1
+V47,B6 14wk naive Spleen 5,42200,41.9
+V48,B6 14wk naive Spleen 6,42200,37.7
