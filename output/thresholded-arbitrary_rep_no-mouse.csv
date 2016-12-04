@@ -1,0 +1,16 @@
+mouse_geno,week,tb_strain,tissue,1,2,3,4,5,6
+B6,4,BCG,Lung,129,,,,,
+B6,4,BCG,Spleen,39,42.0,35.0,36.0,38.0,10.0
+B6,4,BCG,Thoracic LN,94,20.0,77.0,134.0,94.0,59.0
+B6,4,naive,Lung,63,60.0,284.0,11.0,138.0,
+B6,4,naive,Peripheral LN,12,1.0,1.0,1.0,1.0,3.0
+B6,4,naive,Spleen,66,84.0,25.0,57.0,16.0,46.0
+B6,4,naive,Thoracic LN,14,22.0,33.0,50.0,38.0,36.0
+B6,14,BCG,Lung,200,214.0,207.0,237.0,231.0,225.0
+B6,14,BCG,Peripheral LN,1,1.0,2.0,,,
+B6,14,BCG,Spleen,22,63.0,55.0,,,
+B6,14,BCG,Thoracic LN,52,161.0,105.0,48.0,1.0,87.0
+B6,14,naive,Lung,228,228.0,234.0,196.0,5.0,202.0
+B6,14,naive,Peripheral LN,1,4.0,1.0,1.0,1.0,
+B6,14,naive,Spleen,52,78.0,108.0,102.0,76.0,65.0
+B6,14,naive,Thoracic LN,165,5.0,146.0,113.0,137.0,170.0
