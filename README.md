@@ -23,17 +23,16 @@ Digitally Barcoding Mycobacterium tuberculosis reveals in vivo infection dynamic
 ------------
 ### Dependencies
 
-
+<!---
 <tl;dr>For those more comfortable with programming and Python, skip to Dependencies/Packages.
 
 <If you have Linux, you probably know what you are doing anyway>
-
+--->
 ##### I.  Basic Needs (Command-Line Interface (CLI) and Python)</b>
 0. (For Windows users only). Download a command-line interface program (CLI). Recommended: [Cygwin (cygwin.com)](https://cygwin.com).
 
 0. Install Python v2 (ver. 2.7.11 or later; not v3). (If you have OS X) Recommended: [Anaconda (MiniConda version; anaconda.org)](https://anaconda.org).
 
-0. pip????
 
 ##### II.  Packages
 
