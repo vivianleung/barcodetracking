@@ -8,13 +8,7 @@
 Version 1.0 (stable, updated 16 May 2017) on <i>master</i> branch.
 (<i>v1</i> and <i>v2</i> branches are in development.)
 
-
 Martin CJ, Cadena AM, Leung VW, Lin PL, Maiello P, Hicks N, Chase MR, Flynn JL, Fortune SM. 2017. Digitally barcoding Mycobacterium tuberculosis reveals in vivo infection dynamics in the macaque model of tuberculosis. mBio 8:e00312-17. https://doi.org/10.1128/mBio.00312-17.
-
-<extrasmall>Constance J. Martin (1, 2 5), Anthony M. Cadena (3, 5), Vivian W. Leung (1), Philana Ling Lin (4), Pauline Maiello (3), Nathan Hicks (1), Michael R. Chase (1), JoAnne L. Flynn (3) & Sarah M. Fortune (1, 2)<extrasmall>
-<br/><br/>
-
-<extrasmall> <small>(1) Department of Immunology and Infectious Diseases, Harvard T.H. Chan School of Public Health, Boston, Massachusetts, USA. (2) Ragon Institute of Massachusetts General Hospital, Massachusetts Institute of Technology and Harvard, Cambridge, Massachusetts, USA. (3) Department of Microbiology and Molecular Genetics, University of Pittsburgh School of Medicine, Pittsburgh, Pennsylvania, USA. (4) Department of Pediatrics, Children’s Hospital of Pittsburgh, University of Pittsburgh Medical Center, Pittsburgh, Pennsylvania, USA. (5) These authors contributed equally to this work. Correspondence should be addressed to J.L.F (joanne@pitt.edu) or S.M.F. (sfortune@hsph.harvard.edu).<small> </extrasmall>
 
 -------------
 ## Overview
