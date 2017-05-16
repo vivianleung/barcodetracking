@@ -5,13 +5,11 @@
 <!---Hello - welcome to our Github home! Please feel free to peruse our project and share our interest in tuberculosis and infectious disease, as well as the joy of biology and CS. If you do use some of the code or other material from this project, please be sure to cite us (see the reference in the overview). Thanks! :)  Scripts written by Vivian W. Leung (1). 2016.--->
 
 
-Version 1.0 (stable, updated 26 August 2016) on <i>master</i> branch.
+Version 1.0 (stable, updated 16 May 2017) on <i>master</i> branch.
 (<i>v1</i> and <i>v2</i> branches are in development.)
 
 
-
-(Published (XX):
-Digitally Barcoding Mycobacterium tuberculosis reveals in vivo infection dynamics in the macaque model of tuberculosis)
+Martin CJ, Cadena AM, Leung VW, Lin PL, Maiello P, Hicks N, Chase MR, Flynn JL, Fortune SM. 2017. Digitally barcoding Mycobacterium tuberculosis reveals in vivo infection dynamics in the macaque model of tuberculosis. mBio 8:e00312-17. https://doi.org/10.1128/mBio.00312-17.
 
 <extrasmall>Constance J. Martin (1, 2 5), Anthony M. Cadena (3, 5), Vivian W. Leung (1), Philana Ling Lin (4), Pauline Maiello (3), Nathan Hicks (1), Michael R. Chase (1), JoAnne L. Flynn (3) & Sarah M. Fortune (1, 2)<extrasmall>
 <br/><br/>
@@ -33,6 +31,7 @@ Digitally Barcoding Mycobacterium tuberculosis reveals in vivo infection dynamic
 
 0. Install Python v2 (ver. 2.7.11 or later; not v3). (If you have OS X) Recommended: [Anaconda (MiniConda version; anaconda.org)](https://anaconda.org).
 
+0. Notes on <code>pip</code>
 
 ##### II.  Packages
 
@@ -46,7 +45,7 @@ The following packages are required (versions in parentheses).
 
 <b>Note 1 (regex)</b>: this <code>regex</code> is NOT the native <code>re</code> package. Install <code>regex</code> via <code>binstar</code>. The package is available as conda for OS X and Linux; for Windows, only the pip type is available.
 
-<b>Note 2 (jupyter)</b>: Currently, Jupyter is required to read and execute the scripts (.ipynb type) while we test out our command-line .py version. <Sorry!>
+<b>Note 2 (jupyter)</b>: Currently, Jupyter is required to read and execute the scripts (.ipynb type) while we test out our command-line .py version.
 
 ##### (Quick Notes)
 <b>How to install packages</b>
@@ -71,8 +70,6 @@ Example: <code> conda install im_already_here --upgrade</code> <br/>
 
 -------
 ### Downloading the pipeline.
-
-#### <CAN WE COMPILE A PIPELINE?????>
 
 #### Option 1:  Download the scripts [here](https://github.com/sarahfortunelab/barcodetracking/archive/master.zip).
 
@@ -121,7 +118,7 @@ To receive updates to your local branch, e.g. <code>master</code> through your r
 
 ##### I. Basic Needs
 1. <b>Command-line interface.</b>
-   * <b>OS X</b>. The application "Terminal" is factory-installed on your computer as "Terminal". (Skip this step).
+   * <b>OS X</b>. The application "Terminal" is factory-installed on your computer as "Terminal". 
    * <b>Windows</b>. A Linux-like terminal is strongly preferred and is unfortunately not included in the Windows system. A good application is  [Cygwin (https://cygwin.com)](https://cygwin.com).
    <br/>(The native "Command Prompt" interface could be used, but is not supported, i.e. use at your own risk)
 
